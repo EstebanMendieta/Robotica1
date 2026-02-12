@@ -1,2 +1,2 @@
 # Robotica1
-Script y escena en coppelia de un brazo tipo SCARA para el trasplante de plantas.
+Script en python, escena en CoppeliaSim, para que funcione debe asegurarse de tener abierto Visual Studio Code y CoppeliaSim abiertos con la script y la escena cargadas, iniciar el script en VSC.
