@@ -1,2 +1,4 @@
 # Robotica1
-Script en python, escena en CoppeliaSim, para que funcione debe asegurarse de tener abierto Visual Studio Code y CoppeliaSim abiertos con la script y la escena cargadas, iniciar el script en VSC.
+Script en python, escena en CoppeliaSim
+Abrir la escena SCARA.ttt en CoppeliaSim y brazo_SCARA.py en Visual Studio Code
+Iniciar el Script en VSC y visualizar la simulacion en CoppeliaSim
